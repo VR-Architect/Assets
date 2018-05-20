@@ -1,5 +1,5 @@
 {
-  "asset": [
+  "asset1": [
     {"AssetGuid": "31cabd47-ac1b-4965-b563-31cc6de99214", "Name": "aj", "URL": "", "Scale": 1},
     {"AssetGuid": "519c3ba4-9a21-479c-b94a-6e1ae4c5f4b8", "Name": "akai_e_espiritu", "URL": "", "Scale": 1},
     {"AssetGuid": "61388153-dac6-442c-8514-60b927c3eab7", "Name": "arissa", "URL": "", "Scale": 1},
@@ -27,7 +27,9 @@
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "kachujin_g_rosales", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "kaya", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "knight_d_pelegrini", "URL": "", "Scale": 1},
-    {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "liam", "URL": "", "Scale": 1},
+    {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "liam", "URL": "", "Scale": 1}
+  ]
+  "asset2": [
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "lola_b_styperek", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "malcolm", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "maria_j_j_ong", "URL": "", "Scale": 1},
@@ -55,7 +57,9 @@
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "sporty_granny", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "stefani", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "survivor_a_lusth", "URL": "", "Scale": 1},
-    {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "swat", "URL": "", "Scale": 1},
+    {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "swat", "URL": "", "Scale": 1}
+  ]
+  "asset3": [
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "theboss", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "ty", "URL": "", "Scale": 1},
     {"AssetGuid": "4da3031b-7eea-4425-86d9-f65d620bb545", "Name": "uriel_a_plotexia", "URL": "", "Scale": 1},
