@@ -1,5 +1,9 @@
 {
-  "asset1": [
+  "traveler": [
+	{"id": 1, "TravelerGuid": "11cabd47-ac1b-4965-b563-31cc6de99214","Name": "Scott", "AvatarGuid": "519c3ba4-9a21-479c-b94a-6e1ae4c5f4b8"},
+	{"id": 2, "TravelerGuid": "226eec97-25b8-452e-a6ef-5999a98cb792","Name": "Scott", "AvatarGuid": "61388153-dac6-442c-8514-60b927c3eab7"}
+  ],
+  "asset": [
     {"id": 1, "AssetGuid": "31cabd47-ac1b-4965-b563-31cc6de99214", "Name": "aj", "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/31cabd47-ac1b-4965-b563-31cc6de99214?AWSAccessKeyId=BVWUZK7XO3HJNQWJ7MPI&Expires=1527429404&Signature=n37ObsI9htxcujQWLieeXrp0nw8%3D", "Scale": 1},
     {"id": 2, "AssetGuid": "519c3ba4-9a21-479c-b94a-6e1ae4c5f4b8", "Name": "akai_e_espiritu", "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/519c3ba4-9a21-479c-b94a-6e1ae4c5f4b8?AWSAccessKeyId=BVWUZK7XO3HJNQWJ7MPI&Expires=1527429452&Signature=HkJ4gJU87UQt5pjCN6z%2BT2HmDzI%3D", "Scale": 1},
     {"id": 3, "AssetGuid": "61388153-dac6-442c-8514-60b927c3eab7", "Name": "arissa", "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/61388153-dac6-442c-8514-60b927c3eab7?AWSAccessKeyId=BVWUZK7XO3HJNQWJ7MPI&Expires=1527429471&Signature=cC5T7HJKZsTfeLgHtSRFm9YG8TY%3D", "Scale": 1},
