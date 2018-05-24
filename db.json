@@ -4,16 +4,16 @@
 	{"id": 2, "Name": "Vania"}
   ],
   "AvatarsOwned": [
-		{"assetid": 2, "VersionInUse": 1},
-		{"assetid": 4, "VersionInUse": 1},
-		{"assetid": 7, "VersionInUse": 1},
-		{"assetid": 9, "VersionInUse": 1}
+		{"id": 1, "assetid": 2, "VersionInUse": 1},
+		{"id": 2, "assetid": 4, "VersionInUse": 1},
+		{"id": 3, "assetid": 7, "VersionInUse": 1},
+		{"id": 4, "assetid": 9, "VersionInUse": 1}
 	],
   "AssetsOwned": [
-		{"assetid": 1, "VersionInUse": 1},
-		{"assetid": 3, "VersionInUse": 1},
-		{"assetid": 5, "VersionInUse": 1},
-		{"assetid": 8, "VersionInUse": 1}
+		{"id": 1, "assetid": 1, "VersionInUse": 1},
+		{"id": 2, "assetid": 3, "VersionInUse": 1},
+		{"id": 3, "assetid": 5, "VersionInUse": 1},
+		{"id": 4, "assetid": 8, "VersionInUse": 1}
   ], 
   "asset": [
     {"id": 1, "Name": "aj", "Versions": [{"Versionid": 1, "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/31cabd47-ac1b-4965-b563-31cc6de99214", "Scale": 1}]},
