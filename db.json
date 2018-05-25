@@ -4,21 +4,21 @@
 	{"id": 2, "Name": "Vania"}
   ],
   "AvatarsOwned": [{
-	  "AvatarsOwned": [
+	  "id": 1, "AvatarsOwned": [
 			{"id": 1, "assetid": 2, "VersionInUse": 1},
 			{"id": 2, "assetid": 4, "VersionInUse": 1},
 			{"id": 3, "assetid": 7, "VersionInUse": 1},
 			{"id": 4, "assetid": 9, "VersionInUse": 1}
 		]
-	}],
-	"AssetsOwned": [{
-	  "AssetsOwned": [
+  }],
+  "AssetsOwned": [{
+	  "id": 1, "AssetsOwned": [
 			{"id": 1, "assetid": 1, "VersionInUse": 1},
 			{"id": 2, "assetid": 3, "VersionInUse": 1},
 			{"id": 3, "assetid": 5, "VersionInUse": 1},
 			{"id": 4, "assetid": 8, "VersionInUse": 1}
 	  ]
-	}], 
+  }], 
   "asset": [
     {"id": 1, "Name": "aj", "Versions": [{"Versionid": 1, "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/31cabd47-ac1b-4965-b563-31cc6de99214", "Scale": 1}]},
     {"id": 2, "Name": "akai_e_espiritu", "Versions": [{"Versionid": 1, "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/519c3ba4-9a21-479c-b94a-6e1ae4c5f4b8", "Scale": 1}]},
