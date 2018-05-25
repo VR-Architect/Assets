@@ -5,10 +5,9 @@
   ],
   "AvatarsOwned": [{
 	  "id": 1, "AvatarsOwned": [
-			{"id": 1, "assetid": 2, "VersionInUse": 1},
-			{"id": 2, "assetid": 4, "VersionInUse": 1},
-			{"id": 3, "assetid": 7, "VersionInUse": 1},
-			{"id": 4, "assetid": 9, "VersionInUse": 1}
+			{"id": 1, "assetid": 1, "VersionInUse": 1},
+			{"id": 2, "assetid": 2, "VersionInUse": 1},
+			{"id": 3, "assetid": 3, "VersionInUse": 1}
 		]
   }],
   "AssetsOwned": [{
