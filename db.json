@@ -18,6 +18,11 @@
 			{"id": 4, "assetid": 8, "VersionInUse": 1}
 	  ]
   }], 
+    "Destinations": [
+	{"id": 1, "Name": "Scene1", "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/f119ed47-17f1-41df-a730-1602448d2713" },
+	{"id": 2, "Name": "Scene2", "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/bfe755e7-b5a0-4ea6-9038-b0b201c502c1" },
+	{"id": 3, "Name": "Scene3", "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/3f05cbb7-d8e5-4c62-a6fa-b9cb2e6104cf" }
+	], 
   "asset": [
     {"id": 1, "Name": "aj", "Versions": [{"Versionid": 1, "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/31cabd47-ac1b-4965-b563-31cc6de99214", "Scale": 1}]},
     {"id": 2, "Name": "akai_e_espiritu", "Versions": [{"Versionid": 1, "URL": "https://nyc3.digitaloceanspaces.com/voogu-backups/Assets/519c3ba4-9a21-479c-b94a-6e1ae4c5f4b8", "Scale": 1}]},
